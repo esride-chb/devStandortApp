@@ -1,0 +1,37 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: HelveticaLTWXX-Roman by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/helvetica/pro-regular/
+ * Copyright: Copyright © 2014 Monotype Imaging Inc. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2020 MyFonts Incn*/
+
+
+
+  
+@font-face {
+  font-family: "FuturaExtraBoldCondensedOblique";
+  src: url('webFonts/FuturaExtraBoldCondensedOblique/font.woff2') format('woff2'), url('webFonts/FuturaExtraBoldCondensedOblique/font.woff') format('woff');
+}
+@font-face {
+  font-family: "FuturaBoldCondensedOblique";
+  src: url('webFonts/FuturaBoldCondensedOblique/font.woff2') format('woff2'), url('webFonts/FuturaBoldCondensedOblique/font.woff') format('woff');
+}
+@font-face {
+	font-family: "SuisseIntl-Regular-WebM";
+	src: url('webFonts/SuisseIntl-Regular-WebM.woff2') format('woff2'), url('/webFonts/SuisseIntl-Regular-WebM.woff') format('woff');
+}
+@font-face {
+	font-family: "SuisseIntl-SemiBold-WebM";
+	src: url('webFonts/SuisseIntl-SemiBold-WebM.woff2') format('woff2'), url('/webFonts/SuisseIntl-SemiBold-WebM.woff') format('woff');
+}

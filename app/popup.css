@@ -1,0 +1,115 @@
+html,
+body,
+#viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+#popupLogoDiv {
+    background-color: #ffcc00;
+    border-radius: 1.25rem 0 0 0;
+    font-size: 28px;
+    color: black;
+    font-family: FuturaExtraBoldCondensedOblique;
+    padding: 1rem 1.5rem;
+}
+#popupLogoDivLink {
+    font-size: 13.5px;
+    font-family: SuisseIntl-SemiBold-WebM;
+    color: black;
+    line-height: 24px;
+}
+#popupAttributesDiv {
+    background-color: black;
+    font-size: 28px;
+    color: white;
+    Padding: 1.5rem;
+}
+#popupAttributesDivStandort {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: SuisseIntl-SemiBold-WebM;
+}
+#popupAttributesDivAdress {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: SuisseIntl-Regular-WebM;
+    padding: 1rem 0;
+}
+.popupAttributesDivContact {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: SuisseIntl-Regular-WebM;
+    color: #ffcc00;
+    cursor: pointer;
+}
+.popupAttributesDivContact:hover {
+    color: #3c3c3c;
+}
+.popupAttributesContactChild {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8;
+}
+#popupAttributesDivRubriken {
+    font-size: 15px;
+    font-family: SuisseIntl-Regular-WebM;
+    padding: 1rem 0;
+    line-height: 24px;
+}
+.popupRubrikenButton {
+    Padding: 0.5rem 1rem;
+    border: 1.6px solid #3c3c3c;
+    border-radius: 1.25rem;
+    line-height: 15px;
+    display: inline-block;
+}
+.esri-ui .esri-popup .esri-popup__main-container {
+    border-radius: 1.25rem 0 0 0;
+}
+.esri-view-width-xlarge .esri-popup__main-container {
+    width: 250px;
+}
+.esri-view-height-less-than-medium .esri-popup__main-container {
+    max-height: 500px;
+}
+.esri-view-height-large .esri-popup__main-container {
+    max-height: 500px;
+}
+.esri-popup__header {
+    height: 0px;
+    visibility: hidden;
+}
+.esri-popup__content {
+    margin: 0 0 0;
+    border-radius: 1.25rem 0 0 0;
+    background-color: black;
+}
+.esri-feature__content-element {
+    padding: 0 0;
+    margin-bottom: 0;
+    background-color: black;
+}
+.esri-feature {
+    width: 100%;
+    background-color: black;
+}
+.esri-popup__footer {
+    background-color: #1e1e1e;
+}
+.esri-popup__navigation {
+    background-color: #1e1e1e;
+}
+.esri-popup__button {
+    color: white;
+}
+.esri-popup__pointer {
+    visibility: hidden;
+}
+/* .esri-popup__inline-actions-container {
+    visibility: hidden;
+}
+.esri-popup__footer {
+    display: block
+} */
