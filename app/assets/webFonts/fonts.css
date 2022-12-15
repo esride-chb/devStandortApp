@@ -1,0 +1,17 @@
+ 
+@font-face {
+  font-family: "FuturaExtraBoldCondensedOblique";
+  src: url('FuturaExtraBoldCondensedOblique/font.woff2') format('woff2'), url('FuturaExtraBoldCondensedOblique/font.woff') format('woff');
+}
+/* @font-face {
+  font-family: "FuturaBoldCondensedOblique";
+  src: url('FuturaBoldCondensedOblique/font.woff2') format('woff2'), url('FuturaBoldCondensedOblique/font.woff') format('woff');
+} */
+@font-face {
+	font-family: "SuisseIntl-Regular-WebM";
+	src: url('SuisseIntl-Regular-WebM.woff2') format('woff2'), url('SuisseIntl-Regular-WebM.woff') format('woff');
+}
+@font-face {
+	font-family: "SuisseIntl-SemiBold-WebM";
+	src: url('SuisseIntl-SemiBold-WebM.woff2') format('woff2'), url('SuisseIntl-SemiBold-WebM.woff') format('woff');
+}
